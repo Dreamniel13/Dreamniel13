@@ -1,5 +1,3 @@
-Breve apresentacao
-
 
 - OLa, eu sou o Daniel de Oliveira Machado!
   
